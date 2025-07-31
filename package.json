@@ -1,0 +1,22 @@
+{
+  "name": "ci_testing",
+  "version": "1.0.0",
+  "description": "I am creating to run my first CI Test run",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhirajJadhao2503/ci_Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhirajJadhao2503/ci_Testing/issues"
+  },
+  "homepage": "https://github.com/DhirajJadhao2503/ci_Testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
